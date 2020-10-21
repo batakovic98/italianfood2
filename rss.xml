@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Italian food bar</title>
+		<link>https://italianfoodbar1.000webhostapp.com/index.php</link>
+		<description>Svoju istoriju, Italian food bar započeo je 2012. godine kao porodični restoran na Zemunskom keju.</description>
+		<item>
+			<title>Novosti</title>
+			<link>https://italianfoodbar1.000webhostapp.com/index.php</link>
+			<description>Novosti vezane za nove proizvode i nove ukuse u našem restoranu. </description>
+		</item>
+	</channel>
+</rss>
